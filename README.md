@@ -5,3 +5,11 @@
 <p>The game consists of HTML, CSS and JavaScript.</p>
 
 <p>Ideas for additional features:</p>
+
+<p>Additional features can be added:</p>
+
+<ul>
+    <li>A scoring mechanism</li>
+    <li>A timer</li>
+    <li>Can be added more cards</li>
+</ul>
