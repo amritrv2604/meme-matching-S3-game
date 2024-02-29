@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'card4', img: 'images/rollsafe.png' },
         { name: 'card5', img: 'images/success.png' },
         { name: 'card5', img: 'images/success.png' },
-        // ...add more pairs as needed
+        // can be added more pairs as needed
     ];
 
     function shuffle(array) {
